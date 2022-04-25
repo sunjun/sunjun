@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on golang
-- 🌱 I’m currently learning golang
+- 🔭 I’m currently working on c++
+- 🌱 I’m currently learning c++
 
 <!--
 **sunjun/sunjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
